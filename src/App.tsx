@@ -6,7 +6,7 @@ function App() {
     <div class="App">
       <header class="App-header">
         <p>
-          Advanced String Processor
+          STUdly stylE
         </p>
       </header>
       <div class="content">
